@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625613327 source:c:\users\mauricio\documents\mauricio\sistema de informação - uems\pci\aulas c\fettuccini\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

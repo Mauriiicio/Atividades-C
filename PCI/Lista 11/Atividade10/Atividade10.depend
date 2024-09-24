@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1620848813 source:c:\users\gabriel\desktop\mauricio\atividade09\atividade10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1620848813 source:c:\users\mauricio\documents\mauricio\sistema de informação - uems\pci\aulas c\lista 11\atividade10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

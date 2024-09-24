@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636304775 source:c:\users\mauricio\desktop\listas mercedez\lista 31\3.4.12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

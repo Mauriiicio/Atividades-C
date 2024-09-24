@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627917656 source:c:\users\gabriel\desktop\atividade2.09\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

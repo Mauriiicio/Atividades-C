@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625669716 source:c:\users\gabriel\desktop\mauricio\pci\lista 13\atividade09\main.c
+	<math.h>
+	<stdio.h>
+	<string.h>
+

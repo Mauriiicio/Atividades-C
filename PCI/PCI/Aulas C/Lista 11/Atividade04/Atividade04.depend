@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620599249 source:c:\users\mauricio\documents\mauricio\sistema de informação - uems\pci\aulas c\atividade04\main.c
+	<stdio.h>
+	<stdlib.h>
+
